@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MyGoal50PULLRequest" />
+        <module name="AutomationGoals" />
       </profile>
     </annotationProcessing>
   </component>
